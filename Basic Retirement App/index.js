@@ -1,9 +1,9 @@
 //Programa para calcular a aposentadoria de uma pessoa.
 
- const nome = 'Joao'
- const sexo = 'M'
- const idade = 60
- const contribuicao = 42
+ const nome = 'YourName'
+ const sexo = 'Your sex (M or F)'
+ const idade = YourAge in numbers
+ const contribuicao = YourContribution in numbers
 
  const aposentadoria = idade + contribuicao
  //O tempo de contribuição mínimo para homens é de 35 anos e, para mulheres, 30 anos;
